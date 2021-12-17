@@ -17,7 +17,7 @@ average_passengers_per_car = passengers / cars_driven
 
 # print the statement within quotes with the variable cars replaceced by its value
 puts "There are #{cars} cars available."
-# print the statement within quotes with the variable cars replaceced by its drivers
+# print the statement within quotes with the variable cars replaced by its drivers
 puts "There are only #{drivers} drivers available."
 # print the statement within quotes with the variable cars_not_driven replaced by its value
 puts "There will be #{cars_not_driven} empty cars today."

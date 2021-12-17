@@ -1,5 +1,5 @@
-puts "Hello World!"
-puts "Hello Again"
+# This is a comment and will not be executed
+# puts is used to print the, anything within a "" is a string
 puts "I like typing this."
 puts "This is fun."
 puts 'Yay! Printing.'
